@@ -1,0 +1,18 @@
+mtest: Expanding 1 + 1 = 2
+Expanding 1 + 1 = 2
+18 bytes to expand '1 + 1 = 2' to '1 plus 1 equals 2'
+
+	took 18 bytes.
+
+mtest: Expanding 1 + 2 - 3 * 4 / 6 = + 1
+Expanding 1 + 2 - 3 * 4 / 6 = + 1
+52 bytes to expand '1 + 2 - 3 * 4 / 6 = + 1' to '1 plus 2 minus 3 times 4 divided by 6 equals plus 1'
+
+	took 52 bytes.
+
+mtest: Expanding This string only seems long
+Expanding This string only seems long
+28 bytes to expand 'This string only seems long' to 'This string only seems long'
+
+	took 28 bytes.
+

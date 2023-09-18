@@ -1,0 +1,11 @@
+Expanding 1 + 1 = 2
+18 bytes to expand '1 + 1 = 2' to '1 plus 1 equals 2'
+
+Expanding 1 + 2 - 3 * 4 / 6 = + 1
+52 bytes to expand '1 + 2 - 3 * 4 / 6 = + 1' to '1 plus 2 minus 3 times 4 divided by 6 equals plus 1'
+
+Expanding This string only seems long
+28 bytes to expand 'This string only seems long' to 'This string only seems long'
+
+Search: The longest conversion is 52.
+Lab 6: 1 + 2 - 3 * 4 / 6 = + 1 had the longest conversion.

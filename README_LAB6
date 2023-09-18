@@ -1,0 +1,14 @@
+THIS IS THE README FILE FOR LAB 6.
+Anirudh Kondapaneni
+BY SUBMITING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE PERFORMED ALL
+OF THE WORK TO DETERMINE THE ANSWERS FOUND WITHIN THIS FILE MYSELF WITH
+NO ASSISTANCE FROM ANY PERSON OTHER THAN THE INSTRUCTOR OF THIS COURSE
+OR ONE OF OUR UNDERGRADUATE GRADERS.
+
+HOURS WORKED: 6.5 hours
+
+Hardest: it was definitly trying to figure out search. It took me 6 hours out of the 6.5 hours i worked on
+that garb method. For some reason when i tried to do search the decrementing way it would always give me a
+saucy seg fault >:( so I ended up trying to fix the method step by step but found that by just increamnting the array pointer by 8 bytes i could just loop through the array like how we did for string copy.
+
+Easiest: literally the rest of the lab was freelo, cash, freer than a costco smaple tbh. Jk but not really. 
